@@ -1,0 +1,29 @@
+/* CSS Document */
+body, table, footer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+table {
+	border: 4px solid #fd4d0c;
+	border-collapse: collapse;
+	background-color: #FFE5DC;
+	margin: 0 auto;
+	width: 100%;
+	font-family: sans-serif, Impact, "Baskerville";
+	box-shadow: 10px 0px 20px 3px #792101;
+}
+
+caption {
+	font-weight: bold;
+	color: #380bo2;
+}
+
+th, td {
+	border: 1px solid #380b02;
+}
+
+footer {
+	font-size: 0.10em;
+}
